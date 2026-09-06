@@ -3,7 +3,7 @@
 > Application Desktop Windows Forms (C# / .NET) conçue pour la gestion centralisée du personnel, du parc matériel, des logiciels et des affectations au sein de l'entreprise **AIC MÉTALLURGIE**.
 
 ---
-
+ 
 ## 📌 Présentation du Projet
 
 L'application **AIC-Gestion** offre une interface centralisée permettant d'administrer les ressources humaines et matérielles de l'entreprise. Elle facilite la saisie, le suivi et la mise à jour des données opérationnelles grâce à une connexion dynamique à une base de données Microsoft Access.
