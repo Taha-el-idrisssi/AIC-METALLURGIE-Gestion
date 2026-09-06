@@ -38,4 +38,4 @@ L'application **AIC-Gestion** offre une interface centralisée permettant d'admi
 
 1. **Cloner le dépôt sur votre machine :**
    ```bash
-   git clone [https://github.com/Taha-el-idrissi/AIC-METALLURGIE-Gestion.git](https://github.com/Taha-el-idrissi/AIC-METALLURGIE-Gestion.git)
+   git clone [https://github.com/Taha-el-idrisssi/AIC-METALLURGIE-Gestion.git](https://github.com/Taha-el-idrisssi/AIC-METALLURGIE-Gestion.git)
