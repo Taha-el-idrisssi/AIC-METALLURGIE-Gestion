@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\bin\Debug\AIC App.exe.config
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\bin\Debug\AIC App.exe
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\bin\Debug\AIC App.pdb
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC App.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC_App.Form1.resources
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC_App.Properties.Resources.resources
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC App.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC App.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC App.exe
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC App.pdb
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC_App.Form2.resources
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC_App.Form3.resources
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC_App.Form5.resources
+C:\Users\hp\Desktop\AIC Gestion produit\AIC App\AIC App\obj\Debug\AIC_App.Form4.resources

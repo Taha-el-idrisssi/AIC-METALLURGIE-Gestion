@@ -1,0 +1,9 @@
+## Dossiers de compilation à ignorer
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+
+## Fichier local contenant votre chemin de BDD
+config.txt
