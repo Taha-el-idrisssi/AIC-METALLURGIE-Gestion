@@ -4,6 +4,3 @@
 .vs/
 *.user
 *.suo
-
-## Fichier local contenant votre chemin de BDD
-config.txt
